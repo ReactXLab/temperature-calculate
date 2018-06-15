@@ -5,7 +5,7 @@
 
 
 ## Demo
-連結
+[連結](https://reactxlab.github.io/temperature-calculate/)
 
 <img src="./screenshot/img01.png">
 
@@ -14,4 +14,4 @@ MIT
 
 
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg
-[license-url]: 
+[license-url]: https://github.com/ReactXLab/temperature-calculate/blob/master/LICENSE
